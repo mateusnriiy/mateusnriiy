@@ -1,22 +1,25 @@
 ## Olá! Sou Mateus Neri, graduando de Ciência da Computação!
 
-<div style="display: flex">
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=mateusnriiy&theme=radical" />
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateusnriiy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusnriiy&layout=compact&theme=radical&langs_count=8&card_width=320" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnriiy&layout=compact&theme=radical&langs_count=8&card_width=320" />
     </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
+<div style="display: inline_block" align="center"><br>
+    <img align="center" alt="Mateus-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
-  ##
- 
-<div> 
-  <a href = "mailto:mateusgomesneri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateusnriy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+##
+
+<div align="center">
+    <a href="mailto:mateusgomesneri@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/mateusnriy/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
 </div>
