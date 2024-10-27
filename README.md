@@ -1,4 +1,4 @@
-## Olá! Sou Mateus Neri, graduando de Ciência da Computação!
+## Olá! Sou Mateus Neri, Graduando de Ciência da Computação, com enfâse em desenvolvimento web.
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
