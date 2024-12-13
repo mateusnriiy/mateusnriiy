@@ -1,4 +1,4 @@
-## Olá! Sou Mateus Neri, Graduando de Ciência da Computação.
+## Olá!
 
 ###
 
