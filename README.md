@@ -1,5 +1,5 @@
-## Olá!
-
+## Olá! 
+Me chamo Mateus Neri e sou um entusiasta de tecnologia com uma paixão por aprendizado contínuo e inovação. Atualmente, estou me dedicando ao estudo de desenvolvimento web, buscando dominar as melhores práticas e ferramentas para criar soluções modernas e funcionais.
 ###
 
 <div align="center">
